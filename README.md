@@ -11,5 +11,5 @@ Boa comunicação, colaboração e aprendizado contínuo.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>  
-<img src="https://github.com/user-attachments/assets/a49570b0-c762-47e5-a2ba-6f0909fc8cc9" width="45" height="45" alt="nodejs"/>
+
 </div>
